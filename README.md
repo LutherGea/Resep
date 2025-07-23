@@ -78,6 +78,6 @@
     1. Clone repository dari github
     2. Install dependency dengan mengetik "npm install"
     3. Jalankan development server "npm run dev"
-    4. Buka di browser (Chrome/Microsoft Edge) dengan alamat sesuai dengan localhost yanbg tertera
+    4. Buka di browser (Chrome/Microsoft Edge) dengan alamat sesuai dengan localhost yang tertera
        
 6. Link live demo aplikasi https://resep-omega.vercel.app/
