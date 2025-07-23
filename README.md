@@ -1,6 +1,6 @@
 1. Deskripsi Proyek
 
-    RecipePal dibuat untuk memenuhi tugas UAS mata kuliah *Kerangka Kerja Pengembangan Antarmuka Website*. Aplikasi ini menampilkan kumpulan resep makanan dari API atau dummy data lokal, memungkinkan pengguna untuk menandai resep favorit, memberikan rating, dan menulis catatan pribadi.
+    RecipeApp dibuat untuk memenuhi tugas UAS mata kuliah *Kerangka Kerja Pengembangan Antarmuka Website*. Aplikasi ini menampilkan kumpulan resep makanan dari API atau dummy data lokal, memungkinkan pengguna untuk menandai resep favorit, memberikan rating, dan menulis catatan pribadi.
 
 
 2. API yang Digunakan
